@@ -26,7 +26,7 @@ function Hero() {
 
         <div>
           <img 
-            src="/Illustration.svg"
+            src="https://placehold.co/500x400?text=Hero+Image"
             alt="hero"
             className="w-[500px]"
           />

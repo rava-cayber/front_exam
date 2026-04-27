@@ -19,7 +19,7 @@ function Hero() {
 
           <div className="flex justify-center">
             <img 
-              src="/image1.png"
+              src="https://placehold.co/400x300?text=Team"
               alt="Team working on design" 
               className="rounded-lg shadow-lg w-full max-w-md"
             />

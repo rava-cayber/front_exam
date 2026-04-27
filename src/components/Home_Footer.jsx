@@ -34,7 +34,7 @@ function Footer() {
 
           <div className="mt-6">
             <img
-              src="/socials.png"
+              src="https://placehold.co/128x32?text=Socials"
               alt="social icons"
               className="w-32"
             />

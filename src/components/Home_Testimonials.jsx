@@ -18,7 +18,7 @@ function Testimonials() {
           </p>
 
           <div className="flex items-center gap-4 mt-6">
-            <img src="/Rasm.png" alt="rasm" />
+            <img src="https://placehold.co/48x48?text=Rasm" alt="rasm" />
             <div>
               <p className="font-semibold">Jenny Wilson</p>
               <p className="text-sm text-gray-500">Vice President</p>

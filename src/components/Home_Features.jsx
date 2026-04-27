@@ -32,7 +32,7 @@ function Features() {
           <div className="bg-gray-100 p-8 rounded-lg text-left">
             
             <img
-              src="/Icon.png"
+              src="https://placehold.co/32x32?text=Icon"
               alt="icon"
               className="w-8 h-8 mb-4"
             />
@@ -48,7 +48,7 @@ function Features() {
           <div className="bg-gray-100 p-8 rounded-lg text-left">
             
             <img
-              src="/Icon (1).png"
+              src="https://placehold.co/32x32?text=Icon1"
               alt="icon"
               className="w-8 h-8 mb-4"
             />
@@ -64,7 +64,7 @@ function Features() {
           <div className="bg-gray-100 p-8 rounded-lg text-left">
             
             <img
-              src="/Icon (2).png"
+              src="https://placehold.co/32x32?text=Icon2"
               alt="icon"
               className="w-8 h-8 mb-4"
             />

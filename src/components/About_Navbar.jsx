@@ -4,7 +4,7 @@ function Navbar() {
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         
         <div className="flex items-center gap-2">
-          <img src="/Logo.png" alt="Finsweet" className="h-8" />
+          <img src="https://placehold.co/64x32?text=Logo" alt="Finsweet" className="h-8" />
           <h1 className="text-xl font-bold text-[#1C1E53]">{`{Finsweet}`}</h1>
         </div>
 
